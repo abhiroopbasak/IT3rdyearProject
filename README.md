@@ -7,7 +7,7 @@ Try it out [here](inaldemotest.herokuapp.com)
 
 ## Pre-requisites
 
-- [Google Chrome Browser[(https://www.google.com/intl/en_in/chrome/)
+- [Google Chrome Browser](https://www.google.com/intl/en_in/chrome/)
 - [Ignore X-Frame headers extension](https://chrome.google.com/webstore/detail/ignore-x-frame-headers/gleekbfjekiniecknbkamfmkohkpodhe/related)
 
 
