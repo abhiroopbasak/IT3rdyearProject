@@ -37,7 +37,7 @@ A demonstration video for the same has been shown below.
 
 ## Architecture
 
-<img src="media/worflow.png" width="425"/>
+<img src="media/workflow.png" width="425"/>
 
 The above diagram 
 
