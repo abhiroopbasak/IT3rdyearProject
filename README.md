@@ -39,7 +39,17 @@ A demonstration video for the same has been shown below.
 
 <img src="media/workflow.png" width="425"/>
 
-The above diagram 
+The above diagram describes the architecture of the project. The main application is hosted at [Heroku](https://finaldemotest.herokuapp.com/) and the Fetch API access the Flask based API hosted in [AWS EC2](http://52.66.204.194:8000/). The API returns link to the searched location based on a regular expression based web scrapping algorithm.
+
+
+## Rights
+
+The project was developed under the guidance of Dr. Subhamita Mukherjee by
+
+- Abhiroop Basak
+- Soumyadeep Pal
+- Akash Kumar
+- Abhisekh kumar
 
 
 
