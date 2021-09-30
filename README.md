@@ -2,7 +2,7 @@
 
 The application enables users to surf the internet totally handsfree using voice recognition technology. Users may visit the application from their browser and start surfing any webpage using voice commands. 
 
-## Try it out [here](inaldemotest.herokuapp.com)
+Try it out [here](inaldemotest.herokuapp.com)
 
 
 ## Pre-requisites
