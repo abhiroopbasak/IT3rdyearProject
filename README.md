@@ -33,7 +33,7 @@ While the first 2 will open [Youtube](https://www.youtube.com/) directly, the 3r
 
 A demonstration video for the same has been shown below.
 
-![Alternate Text]({media/initial.png})]({media/recording.mp4} "Demonstration")
+![Demonstration](recording.gif)
 
 ## Architecture
 
