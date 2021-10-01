@@ -46,7 +46,7 @@ The above diagram describes the architecture of the project. The main applicatio
 
 ## Rights
 
-The project was developed under the guidance of Dr. Subhamita Mukherjee by
+The project was developed under the guidance of Dr. Subhamita Mukherjee  and mentored by Mr. Soumyadeep Sen by
 
 - Abhiroop Basak
 - Soumyadeep Pal
