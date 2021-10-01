@@ -56,6 +56,12 @@ A demonstration video for the same has been shown below.
 The above diagram describes the architecture of the project. The main application is hosted at [Heroku](https://finaldemotest.herokuapp.com/) and the Fetch API access the Flask based API hosted in [AWS EC2](http://52.66.204.194:8000/). The API returns link to the searched location based on a regular expression based web scrapping algorithm.
 
 
+## Instructions to run
+
+Download all the files and run the [home.html](home.html) file. Ensure php is enabled into the server.
+
+
+
 ## Rights
 
 The project was developed under the guidance of Dr. Subhamita Mukherjee  and mentored by Mr. Soumyadeep Sen by
