@@ -33,6 +33,8 @@ While the first 2 will open [Youtube](https://www.youtube.com/) directly, the 3r
 - Click Subscriptions
 - Back
 
+<img src="media/map1.png" width="425"/>         <img src="media/map2.png" width="425"/> 
+
 The application also shows the Google map based location of a place as requested by the user and the route between 2 locations. This can be done using the following set of commands once the user has entered into Google maps using the command 
 
 -open map
