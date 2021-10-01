@@ -33,6 +33,16 @@ While the first 2 will open [Youtube](https://www.youtube.com/) directly, the 3r
 - Click Subscriptions
 - Back
 
+The application also shows the Google map based location of a place as requested by the user and the route between 2 locations. This can be done using the following set of commands once the user has entered into Google maps using the command 
+
+-open map
+
+Then the user can find the location of "Kolkata" or the distance between "Kolkata and "New York" as follows
+
+- click Kolkata
+- click between Kolkata and New York
+
+
 A demonstration video for the same has been shown below.
 
 ![Demonstration](media/recording.gif)
