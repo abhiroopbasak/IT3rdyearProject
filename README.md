@@ -62,14 +62,6 @@ Download all the files and run the [home.html](home.html) file. Ensure php is en
 
 
 
-## Rights
-
-The project was developed under the guidance of Dr. Subhamita Mukherjee  and mentored by Mr. Soumyadeep Sen by
-
-- Abhiroop Basak
-- Soumyadeep Pal
-- Akash Kumar
-- Abhisekh kumar
 
 
 
