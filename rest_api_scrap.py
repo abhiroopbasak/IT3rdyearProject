@@ -17,7 +17,7 @@ def home():
 
 def find(addr,action):
     address="https://github.com/"
-    # return (address+action)
+    return (address+action)
     urllib.request.urlretrieve(address,"text_file.txt")
     
     command=action
